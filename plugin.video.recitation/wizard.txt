@@ -1,0 +1,6 @@
+
+name="Just Streaming"	
+url="https://archive.org/download/juststreaming1/juststreaming1.zip"
+img="http://juststreaming.esy.es/juststreaming/icon.png"
+fanart="http://juststreaming.esy.es/juststreaming/splash.png"
+description="V1.0"

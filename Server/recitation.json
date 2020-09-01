@@ -1,0 +1,96 @@
+{
+  "SaadELGhamdi": {
+    "1": {
+      "name": "01-Al Fatiha",
+      "url": "https://ia801205.us.archive.org/7/items/nordarby_20161004/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%81%D8%A7%D8%AA%D8%AD%D8%A9%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.mp4",
+      "icon": "1.png"
+    },
+    "2": {
+      "name": "02-Al Baqara",
+      "url": "https://ia801205.us.archive.org/7/items/nordarby_20161004/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A8%D9%82%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.mp4",
+      "icon": "1.png"
+    },
+	"3": {
+      "name": "03-Al Imran",
+      "url": "https://ia801205.us.archive.org/7/items/nordarby_20161004/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%20%D8%B9%D9%85%D8%B1%D8%A7%D9%86%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.mp4",
+      "icon": "1.png"
+    },
+	"4": {
+      "name": "04-An-Nisa",
+      "url": "https://ia801205.us.archive.org/7/items/nordarby_20161004/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%86%D8%B3%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A%20-%20YouTube.mp4",
+      "icon": "1.png"
+    },
+	"5": {
+      "name": "05-Al Maida",
+      "url": "https://ia801205.us.archive.org/7/items/nordarby_20161004/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%A7%D8%A6%D8%AF%D8%A9%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.mp4",
+      "icon": "1.png"
+    },
+	"6": {
+      "name": "06-Al Anam",
+      "url": "https://ia801205.us.archive.org/7/items/nordarby_20161004/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D8%B9%D8%A7%D9%85%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.mp4",
+      "icon": "1.png"
+    },
+	"7": {
+      "name": "07-Al Aaraf",
+      "url": "https://ia801205.us.archive.org/7/items/nordarby_20161004/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D8%B9%D8%B1%D8%A7%D9%81%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.mp4",
+      "icon": "1.png"
+    },
+	"8": {
+      "name": "08-Al Anfal",
+      "url": "https://ia801205.us.archive.org/7/items/nordarby_20161004/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A7%D9%86%D9%81%D8%A7%D9%84%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.mp4",
+      "icon": "1.png"
+    },
+	"9": {
+      "name": "09-At Tawba",
+      "url": "https://ia801205.us.archive.org/7/items/nordarby_20161004/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%AA%D9%88%D8%A8%D8%A9%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%B3%D8%B9%D8%AF%20%D8%A7%D9%84%D8%BA%D8%A7%D9%85%D8%AF%D9%8A.mp4",
+      "icon": "1.png"
+    }
+  },
+  "YasserElDossri": {
+    "1": {
+      "name": "01-Al Fatiha",
+      "url": "https://ia801905.us.archive.org/8/items/AlBaqara02_20161208/Al-Fatiha%20%2001.mp4",
+      "icon": "2.png"
+    },
+    "2": {
+      "name": "02-Al Baqara",
+      "url": "https://ia801905.us.archive.org/8/items/AlBaqara02_20161208/Al-Baqara%20%2002.mp4",
+      "icon": "2.png"
+    },
+	"3": {
+      "name": "03-Al Imran",
+      "url": "https://ia801905.us.archive.org/8/items/AlBaqara02_20161208/Al%20Imran%20%2003.mp4",
+      "icon": "2.png"
+    },
+	"4": {
+      "name": "04-An-Nisa",
+      "url": "https://ia801905.us.archive.org/8/items/AlBaqara02_20161208/An-Nisa%20%2004.mp4",
+      "icon": "2.png"
+    },
+	"5": {
+      "name": "05-Al Maida",
+      "url": "https://ia801905.us.archive.org/8/items/AlBaqara02_20161208/Al-Maida%20%2005.mp4",
+      "icon": "2.png"
+    },
+	"6": {
+      "name": "06-Al Anam",
+      "url": "https://ia801905.us.archive.org/8/items/AlBaqara02_20161208/Al-An%20am%20%2006.mp4",
+      "icon": "2.png"
+    },
+	"7": {
+      "name": "07-Al Aaraf",
+      "url": "https://ia601905.us.archive.org/8/items/AlBaqara02_20161208/Al-Araf%20%2007.mp4",
+      "icon": "2.png"
+    },
+	"8": {
+      "name": "08-Al Anfal",
+      "url": "https://ia801905.us.archive.org/8/items/AlBaqara02_20161208/Al-Anfal%20%2008.mp4",
+      "icon": "2.png"
+    },
+	"9": {
+      "name": "09-At-Tawba",
+      "url": "https://ia801905.us.archive.org/8/items/AlBaqara02_20161208/At-Tawba%20%2009.mp4",
+      "icon": "2.png"
+    }
+  }
+}
